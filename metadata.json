@@ -1,0 +1,6 @@
+{
+  "name": "OmniTranslate AI",
+  "description": "نظام ذكاء اصطناعي احترافي للترجمة الفورية للشاشة، الأفلام، الألعاب، المحادثات، الصوت، والصور بتقنيات Gemini و OCR و Floating Overlay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

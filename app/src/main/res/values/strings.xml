@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OmniTranslate AI</string>
+    <string name="app_name_ar">مترجم الشاشة والذكاء الاصطناعي</string>
+    <string name="accessibility_service_desc">خدمة إمكانية الوصول لقراءة نصوص الشاشة والمحادثات وترجمتها فورياً فوق التطبيقات.</string>
+</resources>
